@@ -1,3 +1,5 @@
+/*Yep i like the syntax of C# and javascript etc ^^*/
+
 html
 {
 	scroll-behavior: smooth;
@@ -25,7 +27,7 @@ header
 
 .mitte li
 {
-	background: rgba(0, 0, 0, 0.1);
+	background: rgba(255, 255, 255, 0.3);
 	border-radius: 12px;
 	margin-left: 5;
 	margin-right: 5;
@@ -63,7 +65,13 @@ header
 	position: sticky;
 	top: 0;
 	backdrop-filter: blur(2px);
-	background-color: rgba(255, 255, 255, 0.8)
+	background-color: rgba(255, 255, 255, 0.7)
+}
+	
+#sticky ul li:hover
+{
+	background-color: rgba(255, 255, 255, 0.7);
+	transition: background-color 0.1s;
 }
 
 @media screen and (min-width: 800px)
