@@ -89,16 +89,16 @@ header
 
 #logo
 {
-	width: 600;
-	height: 80;
+	width: 300;
+	height: 40;
 }
 
 @media screen and (min-width:450px)
 {
 	#logo
 	{
-		width: 300;
-		height: 40;
+		width: 600;
+		height: 80;
 	}
 }
 
