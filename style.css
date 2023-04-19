@@ -89,7 +89,7 @@ header
 
 #logo
 {
-	width: 300;
+	width: 600;
 	height: 80;
 }
 
@@ -97,7 +97,7 @@ header
 {
 	#logo
 	{
-		width: 600;
+		width: 300;
 		height: 40;
 	}
 }
