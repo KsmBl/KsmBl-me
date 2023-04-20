@@ -106,8 +106,8 @@ footer ul, nav ul, section ul
 {
 	list-style: none;
 	margin: 0;
-	padding-top: 14;
-	padding-bottom: 14;
+	padding-top: 7;
+	padding-bottom: 7;
 	padding-left: 26;
 	padding-right: 26;
 }
@@ -115,7 +115,7 @@ footer ul, nav ul, section ul
 footer ul li a, nav ul li a
 {
 	font-weight: 600;
-	padding: 5;
+	padding: 4;
 }
 
 section
@@ -150,3 +150,55 @@ body h2
 	padding-left: 10;
 	padding-right: 10;
 }
+
+#cv-container
+{
+	border: 3px solid #fff;
+	padding: 0px;
+}
+
+#cv-left
+{
+	width: 31%;
+	float: left;
+	padding: 0px;
+	border: 2px solid red;
+}
+
+#cv-right
+{
+	width: 67%;
+	float: right;
+	padding: 0px;
+	border: 2px solid red;
+	
+}
+
+#cv-left p
+{
+	display: flex;
+	justify-content: right;
+	margin: 4;
+}
+
+#cv-right p
+{
+	margin: 4;
+}
+
+@media screen and (min-width:900px)
+{
+	#cv-right
+	{
+		width:587 px;
+	}
+}
+
+@media screen and (min-width:900px)
+{
+	#cv-left
+	{
+		width: 293x;
+	}
+}
+r
