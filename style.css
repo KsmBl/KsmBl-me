@@ -131,3 +131,22 @@ section
 {
 	margin-right: 8;
 }
+
+.text
+{
+	border-radius: 15px;
+	padding: 10;
+	background-color: rgba(0, 0, 0, 0.06)
+}
+
+.text:hover
+{
+	transition: background-color 0.5s;
+	background-color: rgba(0, 0, 0, 0.1)
+}
+
+body h2
+{
+	padding-left: 10;
+	padding-right: 10;
+}
