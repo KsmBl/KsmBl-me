@@ -153,7 +153,6 @@ body h2
 
 #cv-container
 {
-	border: 3px solid #fff;
 	padding: 0px;
 }
 
@@ -162,7 +161,6 @@ body h2
 	width: 31%;
 	float: left;
 	padding: 0px;
-	border: 2px solid red;
 }
 
 #cv-right
@@ -170,7 +168,6 @@ body h2
 	width: 67%;
 	float: right;
 	padding: 0px;
-	border: 2px solid red;
 	
 }
 
