@@ -58,7 +58,7 @@
 
 		<section>
 			<h2> <u> Lebenslauf: </u> </h2>
-			<p class="text"> Ich bin am 11.12.2006 in Paderborn geboren und mit einem Alter von 4 Jahren nach Brück gezogen. Nach einem Jahr, im Alter von 5 Jahren wechselte ich dann vom Kindergarten auf die Grundschule Brück. 6 Jahre später dann auf das Gymbel Gymnasium BadBelzig. <br> Dort fielen dann meine Leistungen enorm ab, da ich mich nicht für die Schule motivieren konnte und in eine schwere Phase meines Lebens gerutscht bin. Meine Noten wurden immer schlechter bis ich die 8. Klasse 3 mal gemacht habe, aber sie kein einziges mal geschafft habe. <br> Nun habe ich eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei Strato, welche ich ca September anfangen werde. </p>
+			<p class="text"> Ich bin am 11.12.2006 in Paderborn geboren und mit einem Alter von 4 Jahren nach Brück gezogen. Nach einem Jahr, im Alter von 5 Jahren wechselte ich dann vom Kindergarten auf die Grundschule Brück. 6 Jahre später dann auf das Gymbel Gymnasium BadBelzig. <br> Dort fielen dann meine Leistungen enorm ab, da ich mich nicht für die Schule motivieren konnte und in eine schwere Phase meines Lebens gerutscht bin. Meine Noten wurden immer schlechter bis ich die 8. Klasse 3 mal gemacht habe, aber sie kein einziges mal geschafft habe. <br> Nun suche ich nach einer Ausbildung zum Fachinformatiker für Anwendungsentwicklung oder Systemintegration um mein Hobby irgendwann zu meinem Beruf zu machen, da ich der Meinung bin, dass das wichtigste bei einer Arbeit der Spaß ist. </p>
 			<p> <a href="/cv.html"> Tabellarischer Lebenslauf </a> </p>
 		</section>
 
@@ -69,7 +69,7 @@
 		<section>
 			<h2 class="mitte"> <u> meine Projekte: </u> </h2>
 			<h4 class="mitte"> work in progress: </h4>
-				<p class="mitte"> <a href="keyboard.html"> eigene Tastatur bauen / löten </a> </p>
+				<p class="mitte"> <a href="keyboard.html"> eigene Tastatur entwerfen und löten </a> </p>
 				<p class="mitte"> <a href="fancontroll.html"> Lüftersteuerung für den PC mit einem Raspberry Pi pico </a> </p>
 				<p class="mitte"> <a href="/"> meine eigene Webseite ohne Tools etc </a> </p>
 
@@ -83,8 +83,8 @@
 
 		<section>
 			<h2> <u> Codingpreferenzen: </u> </h2>
-			<p class="text"> Ich programmiere am liebsten mit "nano" und sehr große Programme wie Spiele unter Windows mit "Notepad++", da es dort sehr sinnvoll ist, eine Maus und Features wie eine Zeilenangabe, eine Minimap über das ganze Dokument an der Seite oder die Möglichkeit Zeilen zu markieren zu haben. Aber kleine Anwendungen wie eine Webseite oder simple Python-Scripte bearbeite ich immer mit nano.  Bei nano gefallen mir dabei vor allem die Tastenkombinationen, welche unten am Rand stehen. Und dabei sind das nicht mal alle. Mit CTRL+L zum Beispiel kann man an die richtige Stelle scrollen, damit der Cursor in der Mitte ist und mit CTRL+P kann man eine Zeile nach oben gehen... Ich habe nur noch nicht die Kombination gefunden, um eine Zeile nach unten zu gehen. </p>
-			<p class="text"> Was ich als gute Syntax ansehe ist sehr von meiner ersten Sprache C# geprägt. Deswegen mag ich JavaScript auch sehr, weil ich beinahe alles so schon kenne. Nur Python gefällt mir nicht, ich will einfach meine Semikola wieder haben. Sonst setze ich jede eckige Klammer immer in eine eigene Zeile und passe auf, dass ich gut und sinnvoll einrücke. Sei es in HTML, CSS oder C#. Ein guter und lesbarer Code ist wie ein aufgeräumtes Zimmer, übersichtlich, schön, clean und man findet immer schnell, was man sucht. Daher benutze ich auch ungern Konstrukte wie "i++" sonder lieber "i += 1", weil ich das deutlich untuitiver und schöner finde. </p>
+			<p class="text"> Ich programmiere am liebsten mit "nano" und sehr große Programme wie Spiele unter Windows mit "Notepad++", da es dort sehr sinnvoll ist, eine Maus und Features wie eine Zeilenangabe, eine Minimap über das ganze Dokument an der Seite oder die Möglichkeit Zeilen zu markieren zu haben. Aber kleine Anwendungen wie eine Webseite oder simple Python-Scripte bearbeite ich immer mit nano. Bei nano gefallen mir dabei vor allem die Tastenkombinationen, welche unten am Rand stehen. Und dabei sind das nicht mal alle, mit CTRL+L kann man an die richtige Stelle scrollen damit der Cursor in der Mitte ist und mit CTRL+O kann man eine Zeile nach oben gehen... ich habe nur noch nicht die Kombination gefunden um eine nach unten zu gehen. </p>
+			<p class="text"> Was ich als gute Syntax ansehe ist sehr von meiner ersten Sprace C# geprägt. Deswegen mag ich JavaScript auch sehr, weil ich beinahe alles so schon kenne. Nur Python gefällt mir nicht, ich will einfach meine Simikolons wieder haben. Sonst setze ich jede eckige Klammer immer in eine eigene Zeile und passe auf, dass ich gut und sinnvoll einrücke. Sei es in HTML, CSS oder C#. Ein guter und lesbarer Code ist wie ein aufgeräumtes Zimmer, übersichtlich, schön, clean und man findet immer schnell was man sucht. Daher benutze ich auch ungern Konstrukte wie "i++" sonder lieber "i += 1", weil ich das deutlich untuitiver und schöner finde. </p>
 		</section>
 
 		<div class="MiddleImage" id="contacts">
@@ -105,11 +105,6 @@
 				<img src="Images/GmailLogo.png" width="23">
 			</div>
 			<p> Mail: Patriceksmbl@gmail.com </p>
-
-			<div style="float: left">
-				<img src="Images/GithubLogo.png" width="23">
-			</div>
-			<p> GitHub: <a href="https://github.com/KsmBl"> KsmBl </a> </p>
 		</section>
 
 		<footer>

@@ -9,7 +9,7 @@
 
 	<body>
 		<header class="mitte">
-			<a href="/">
+			<a href="/#projects">
 				<img id="logo" src="Images/PB.png" alt="mein Profielbild">
 			</a>
 		</header>
@@ -26,8 +26,8 @@
 
 		<section>
 			<h2> Projekt: custom Keyboard </h2>
-			<p class="text"> Ca im Februar fing ich an mich mit dem Aufbau von Tastaturen auseinnander zusetzen. <br> Auf das Thema kam ich durch einen Freund, der sich bereits seine eigene Tastatur entworfen und gelötet hat. Einen Plan für das Layout habe ich bereits erstellt. Es soll ein Layout größer als 100% werden, also 100% mit Nummernblock und 12 weiteren F-Tasten über den bereits exisitierenden. </p>
-			<p class="text"> Auf dem PCB sollen sich am Ende 2 Matrixschaltungen befinden um die vielen Tasten realisieren zu können. Daran werden dann 2 Microcontroller gelötet, welche die eingehenden Signale als Input via USB an den PC/Laptop ausgeben. Als Microcontroller werden vermutlich ESP32s oder Arduino Pro micros zum einsatz kommen. <br> Außerdem ist geplant ein 2 Zeilen LCD Display einzubauen, welches durch einen weiteren Microcontroller (vorraussichtlich einem <a href="/fancontroll.html"> Raspberry Pi Pico</a>) angesteuert wird. Dieses soll den Prozentwert der Lüftergeschwindigkeit anzeigen, welche der Raspberry Pi an die Lüfter in meinem PC via RPM signal weitergeben und durch zwei weitere Knöpfe auf meinem BCB gesteuert werden soll. </p>
+			<p class="text"> Ungefähr im Februar 2023 fing ich an, mich mit dem Aufbau von Tastaturen auseinnanderzusetzen. <br> Auf das Thema kam ich durch einen Freund, der sich bereits seine eigene Tastatur entworfen und gelötet hat. Einen Plan für das Layout hatte ich bereits erstellt, jedoch stellte es sich als sehr schwer heraus zu diesem Plan ein PCB zu erstellenn. Daher habe ich mir ein geteilestes Ergo-Keyboard von <a href="https://www.github.com/walterhanley/wren-keyboard"> GitHub </a> herunter geladen und bestellt. </p>
+			<p class="text"> Auf den 2 PCBs befinden sich jeweils eine Matrixschaltung, um die vielen Tasten realisieren zu können. Daran werden dann jeweils ein Microcontroller gelötet, welcher die eingehenden Signale als Input via USB an den PC / Laptop ausgibt. Als Microcontroller habe ich zwei <a href="https://splitkb.com/collections/keyboard-parts/products/elite-pi"> Elite-pi </a> gekauft. Die beiden Einzeiltile werden dann mit einem TRRS (aka AUX) Kabel verbunden. </p>
 		</section>
 
 		<footer>
